@@ -1,2 +1,2 @@
-# Project1
- ITM 361 Project 1
+# project1
+ project 1 for itmd362
