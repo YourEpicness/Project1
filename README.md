@@ -1,2 +1,2 @@
 # project1
- project 1 for itmd362
+ itmd362 project1
